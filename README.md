@@ -1,4 +1,4 @@
-Updated driver for rtl88x2bu wifi adaptors based on RTL88x2BU_WiFi_linux_v5.2.4.1_22719_COEX20170518-4444.20170613.
+Updated driver for rtl88x2bu wifi adaptors based on rtl88x2BU_WiFi_linux_v5.2.4.4_25643.20171212_COEX20171012-5044.
 
 Build confirmed on kernels up to 4.16.0.
 
