@@ -6,4 +6,4 @@ See http://www.wolfteck.com/2018/02/22/wsky_1200mbps_wireless_usb_wifi_adapter/ 
 
 # Fair warning...
 
-I found the original source for this driver [on Dropbox](https://www.dropbox.com/s/b3muqkezsdirmje/Agedate-AC1200-New%20Driver%203.22-LINUX.zip) linked by the seller on [an Amazon listing](https://amzn.to/2Js9AL2).  Don't you love how reputable these driver bundles are?  Nothing say "no one tampered with this after it left the OEM" like downloading from Dropbox / Baidu / etc.
+I found the original source for this driver [on Dropbox](https://www.dropbox.com/s/b3muqkezsdirmje/Agedate-AC1200-New%20Driver%203.22-LINUX.zip) linked by the seller on [an Amazon listing](https://amzn.to/2Js9AL2).  Don't you love how reputable these driver bundles are?  Nothing says "no one tampered with this after it left the OEM" like downloading from Dropbox / Baidu / etc.
