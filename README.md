@@ -1,3 +1,8 @@
+# Newer version available!
+
+If you're looking for the latest and greatest, check out [rtl88x2BU_WiFi_linux_v5.2.4.4_26334.20180126_COEX20171012-5044](https://github.com/cilynx/rtl88x2BU_WiFi_linux_v5.2.4.4_26334.20180126_COEX20171012-5044)
+
+# rtl88x2bu
 Updated driver for rtl88x2bu wifi adaptors based on rtl88x2BU_WiFi_linux_v5.2.4.4_25643.20171212_COEX20171012-5044.
 
 Build confirmed on kernels up to 4.16.0.
